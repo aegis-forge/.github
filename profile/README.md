@@ -1,6 +1,6 @@
 <img src="./framed-logo.png" align="left" width="150"/>
 
-### aegis forge
+### Aegis Forge
 
 Assessing and strengthening the software supply chain of DevOps environments
 
