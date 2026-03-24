@@ -1,4 +1,4 @@
-<img src="./framed-logo.png" align="left" width="150"/>
+<img src="./framed-logo.png" align="left" width="145"/>
 
 ### Aegis Forge
 
