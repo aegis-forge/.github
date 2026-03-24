@@ -2,7 +2,7 @@
 
 ### Aegis Forge
 
-Assessing and strengthening the software supply chain of DevOps environments
+Assessing and strengthening the software supply chain of DevOps environments // DESIGN Research Group @ Software Institute – USI, Lugano
 
 <a href="https://aegis-forge.inf.usi.ch/">Website</a> ·
 <a href="https://scholar.google.com/citations?user=WUofafkAAAAJ">Google Scholar</a> ·
