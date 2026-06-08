@@ -11,4 +11,4 @@ Assessing and strengthening the software supply chain of DevOps environments
 <br />
 
 > [!WARNING]
-> This repository will be a mirror of the organization hosted on Codeberg (reachable [here](https://codeberg.org/aegis-forge)). Any new issue or pr should be created in the corresponding Codeberg repositories.
+> This organization will be a mirror of the same organization hosted on Codeberg (reachable [here](https://codeberg.org/aegis-forge)). Any new issue or pr should be created in the corresponding Codeberg repositories.
